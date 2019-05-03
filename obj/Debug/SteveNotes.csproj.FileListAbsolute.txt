@@ -1,0 +1,14 @@
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\bin\Debug\SteveNotes.exe.config
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\bin\Debug\SteveNotes.exe
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\bin\Debug\SteveNotes.pdb
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.csprojAssemblyReference.cache
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.MainWindow.resources
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.Properties.Resources.resources
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.csproj.GenerateResource.cache
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.csproj.CoreCompileInputs.cache
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.exe
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.pdb
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\bin\Debug\SteveNotes.exe.manifest
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\bin\Debug\SteveNotes.application
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.exe.manifest
+C:\Users\Reuben\source\repos\SteveNotes\SteveNotes\obj\Debug\SteveNotes.application
